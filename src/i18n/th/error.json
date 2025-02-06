@@ -1,0 +1,13 @@
+{
+  "forbidden_exception": "ไม่มีสิทธิ์ในการดึงข้อมูล",
+  "inactive_user_exception": "รหัสผู้ใช้นี้ ถูกปิดไม่สามารถเข้าระบบได้",
+  "invalid_credential_exception": "รหัสผู้ใช้หรือรหัสผ่านไม่ถูกต้อง",
+  "invalid_token_exception": "ไม่สามารถตรวจสอบรหัสผู้ใช้งานได้",
+  "refresh_token_exception": "ไม่สามารถต่ออายุการใช้งานได้",
+  "data_not_found_exception": "ข้อมูลไม่มีในระบบ",
+  "duplicate_username_exception": "รหัสผู้ใช้งาน {username} ถูกใช้ไปแล้ว",
+  "delete_data_authorize_exception": "ไม่มีสิทธิ์ในการลบข้อมูล",
+  "unpaid_order_exception": "คำสั่งซื้อต้องชำระเงินก่อน",
+  "delete_member_with_order_exception": "ไม่สามารถลบสมาชิกที่มีคำสั่งซื้อแล้ว [{orderCount}]",
+  "delete_product_with_order_exception": "ไม่สามารถลบสินค้าที่มีคำสั่งซื้อแล้ว [{orderCount}]"
+}

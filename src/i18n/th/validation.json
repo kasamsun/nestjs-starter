@@ -1,0 +1,17 @@
+{
+  "NOT_EMPTY": "ต้องระบุ {property}",
+  "INVALID_EMAIL": "อีเมล์ไม่ถูกต้อง",
+  "MAX_LENGTH": "{property} ต้องยาวไม่เกิน {constraints.0}",
+  "MIN_LENGTH": "{property} ต้องยาวอย่างน้อย {constraints.0}",
+  "MIN": "{property} ต้องมีค่าไม่น้อยกว่า {constraints.0}",
+  "MAX": "{property} ต้องมีค่าไม่เกิน {constraints.0}",
+  "IS_POSITIVE": "{property} ต้องมีค่ามากกว่า 0",
+  "IS_NUMBER": "{property} ต้องเป็นตัวเลข",
+  "IS_INTEGER": "{property} ต้องเป็นจำนวนเต็ม",
+  "IS_DATE": "วันที่ไม่ถูกต้อง {value}",
+  "IS_IN": "{property} ต้องมีค่าตามนี้เท่านั้น: {value}",
+  "FILE_TYPE": "ประเภทไฟล์ไม่รองรับ",
+  "WEAK_PASSWORD": "รหัสผ่านต้องมีตัวอักษรใหญ่ ตัวเลข อักขระพิเศษ",
+  "ENG_PASSWORD": "รหัสผ่านต้องไม่มีภาษาไทย"
+}
+

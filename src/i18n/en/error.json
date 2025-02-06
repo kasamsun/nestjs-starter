@@ -1,0 +1,13 @@
+{
+  "forbidden_exception": "No authorize to get data",
+  "inactive_user_exception": "Inactive user can not login",
+  "invalid_credential_exception": "Username or password is invalid",
+  "invalid_token_exception": "Invalid token",
+  "refresh_token_exception": "Invalid refresh token",
+  "data_not_found_exception": "Data not found",
+  "duplicate_username_exception": "Email {username} has been used by the other",
+  "delete_data_authorize_exception": "No authorize to delete data",
+  "unpaid_order_exception": "Order must be paid",
+  "delete_member_with_order_exception": "Can not delete member with order[{orderCount}]",
+  "delete_product_with_order_exception": "Can not delete product with order[{orderCount}]"
+}

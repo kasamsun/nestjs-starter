@@ -1,0 +1,16 @@
+{
+  "NOT_EMPTY": "{property} が必要です",
+  "INVALID_EMAIL": "メールアドレスが無効です",
+  "MAX_LENGTH": "{property} の長さは次の値を超えてはなりません {constraints.0}",
+  "MIN_LENGTH": "{property} は少なくとも次の長さでなければなりません {constraints.0}",
+  "MIN": "{property} は少なくとも {constraints.0}",
+  "MAX": "{property} は次の値を超えてはなりません {constraints.0}",
+  "IS_POSITIVE": "{property} は 0 より大きくなければなりません",
+  "IS_NUMBER": "{property} は数値である必要があります",
+  "IS_INTEGER": "{property} は整数である必要があります",
+  "IS_DATE": "日付 {value} が無効です",
+  "IS_IN": "{property} 次の値のいずれかである必要があります: {value}",
+  "FILE_TYPE": "サポートされていないファイル タイプ",
+  "WEAK_PASSWORD": "パスワードには大文字、数字、特殊文字を含める必要があります。",
+  "ENG_PASSWORD": "パスワードにタイ語を含めることはできません"
+}

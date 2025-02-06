@@ -1,0 +1,16 @@
+{
+  "NOT_EMPTY": "{property} can not empty",
+  "INVALID_EMAIL": "Invalid email",
+  "MAX_LENGTH": "{property} must have length less than {constraints.0}",
+  "MIN_LENGTH": "{property} must have length at least {constraints.0}",
+  "MIN": "{property} must be at least {constraints.0}",
+  "MAX": "{property} must be at most {constraints.0}",
+  "IS_POSITIVE": "{property} must be positive number",
+  "IS_NUMBER": "{property} must be number",
+  "IS_INTEGER": "{property} must be integer",
+  "IS_DATE": "{value} must be valid date",
+  "IS_IN": "{property} must be one of the following values: {value}",
+  "FILE_TYPE": "Unsupport file type",
+  "WEAK_PASSWORD": "Password must include capital,numeric,special character",
+  "ENG_PASSWORD": "Password must be english character only"
+}

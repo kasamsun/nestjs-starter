@@ -1,0 +1,13 @@
+{
+  "forbidden_exception": "データを取得する権限がありません",
+  "inactive_user_exception": "非アクティブなユーザーはログインできません",
+  "invalid_credential_exception": "無効なユーザー名またはパスワード",
+  "invalid_token_exception": "ユーザー ID を検証できません。",
+  "refresh_token_exception": "更新できません",
+  "data_not_found_exception": "システム内にデータが見つかりません",
+  "duplicate_username_exception": "メール {username} は他のユーザーによって使用されています",
+  "delete_data_authorize_exception": "データを削除する権限がありません",
+  "unpaid_order_exception": "注文は支払いが必要です",
+  "delete_member_with_order_exception": "すでに注文したメンバーは削除できません。[{orderCount}]",
+  "delete_product_with_order_exception": "注文した商品は削除できません。[{orderCount}]"
+}
